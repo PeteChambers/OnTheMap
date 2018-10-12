@@ -50,3 +50,9 @@ If at any point the user clicks on the “Cancel” button, then the Information
 
 Likewise, if the submission succeeds, then the Information Posting View should be dismissed, returning the app to the Map and Table Tabbed View.
 
+
+## Requirements
+
+- Xcode 8.0 
+- Swift 3.0
+
