@@ -46,9 +46,9 @@ When the user clicks on the “Find Location” button, the app will forward geo
 If the submission fails to post the data to the server, then the user should see an alert with an error message describing the failure.
 
 
-If at any point the user clicks on the “Cancel” button, then the Information Posting View should be dismissed, returning the app to the Map and Table Tabbed View.
+If at any point the user clicks on the “Cancel” button, then the Information Posting View is dismissed, returning the app to the Map and Table Tabbed View.
 
-Likewise, if the submission succeeds, then the Information Posting View should be dismissed, returning the app to the Map and Table Tabbed View.
+Likewise, if the submission succeeds, then the Information Posting is dismissed, returning the app to the Map and Table Tabbed View.
 
 
 ## Requirements
